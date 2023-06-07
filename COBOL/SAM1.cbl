@@ -8,10 +8,10 @@
       ****************************************************************
       * PROGRAM:  SAM1
       *
-      * AUTHOR :  Doug Stout
+      * AUTHOR :  Tim McKeoun
       *
       * READS A SEQUENTIAL TRANSACTION FILE AND MAKES UPDATES
-      * TO A SORTED SEQUENTIAL CUSTOMER FILE
+      * TO A SORTED SEQUENTIAL CUSTOMER FILE.
       *
       * CAN BE MADE TO ABEND WITH BAD INPUT DATA FOR FAULT ANALYSIS LAB
       *****************************************************************
