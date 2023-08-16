@@ -8,7 +8,7 @@
       ****************************************************************
       * PROGRAM:  SAM1
       *
-      * AUTHOR :  Tim McKeoun
+      * AUTHOR :  Tim McKeoun 1
       *
       * READS A SEQUENTIAL TRANSACTION FILE AND MAKES UPDATES
       * TO A SORTED SEQUENTIAL CUSTOMER FILE.
