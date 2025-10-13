@@ -102,3 +102,22 @@ profiles:
           transfer: text
           encoding: IBM-037
       default.encoding: IBM-037
+  - name: zBuilder
+    type: dbb
+    settings:
+      command: "$DBB_HOME/bin/dbb build"
+      lifecycle: user
+      lifecycleArgs:
+        - "--hlq ${dbbHlq}"
+      additionalDependencies:
+        - "dbb-app.yaml"
+  - name: zBuilder2
+    type: dbb
+    settings:
+      command: "$DBB_HOME/bin/dbb build"
+      lifecycle: user
+      lifecycleArgs:
+        - "--hlq ${dbbHlq}"
+      additionalDependencies:
+        - "dbb-app.yaml"
+
