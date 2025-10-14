@@ -8,7 +8,7 @@
       ****************************************************************
       * PROGRAM:  SAM2
       *
-      * AUTHOR :  Doug Stout
+      * AUTHOR :  Doug Stout is not as cool as Tim
       *
       * SUBROUTINE TO PROCESS "UPDATE" TRANSACTIONS AGAINST CUST RECS
       *****************************************************************
